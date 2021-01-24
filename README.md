@@ -2,7 +2,14 @@
 
 ## Online Class
 
-1. L01: [Introduction and Motivation; Asymptotic Notation](https://clemson.zoom.us/rec/play/a4T7fZmBB3g8f88L7WkVJSAGDpah4dSOWqr5PsA0urzZgX_8iYMlLSfrC3dPDbM-u__Gd2h9xebYXTWk.oeNnTssG-nnPCCey?continueMode=true&_x_zm_rtaid=XYIPlTCGT0Kop-bPNwWzow.1610689835356.e36064cd9fdcc10b33237fe854853b3a&_x_zm_rhtaid=189)
+1. L01: [Introduction and Motivation; Asymptotic Notation](https://clemson.zoom.us/rec/play/-9ZbloVnWAr9kOMXtHg6EwaKZa-OHiK9jabUk-AjkdppZX8XafKxT1IspuOEomZlyVjT16O9Gu591Ohl.0Pf4hyyMsLaeQt7B?continueMode=true&_x_zm_rtaid=DadevCQ7Sb-yC9_il_HAKQ.1611478702725.ad8afddb82028d8eb6247f4c13f1e1f5&_x_zm_rhtaid=114)
 
-1. L02: [Amortized Analysis](https://clemson.zoom.us/rec/play/-Rn6So_lPg1FexpQ-BI1iP7vgFWd8UH8LsarS8YQ-EAOo6mlmPFidZGYdjon7cWuVnpFgXROe_mlLEmG.WnqeMxpSNij_9FQO?continueMode=true&_x_zm_rtaid=XYIPlTCGT0Kop-bPNwWzow.1610689835356.e36064cd9fdcc10b33237fe854853b3a&_x_zm_rhtaid=189)
+1. L02: [Amortized Analysis I](https://clemson.zoom.us/rec/play/mHC67TdIziKnDs30Ym3huCf2xv0reMMwrs4ewIfYvhQaWWACzqQFuLQpAMC48TP3CqBpXNtBbbvmpstS.n8PR1WIOUx_JzYDf?continueMode=true&_x_zm_rtaid=DadevCQ7Sb-yC9_il_HAKQ.1611478702725.ad8afddb82028d8eb6247f4c13f1e1f5&_x_zm_rhtaid=114)
+
+1. L03: [Amortized Analysis II](https://clemson.zoom.us/rec/play/2xtpuXaUhq2eJsDAesrOP6ELVo-A5GubKs9zuzRkYyg2e6pa5KDjQrFhr3heUo5V6RIbgKovMS-u2rk.t35KCobMrsS7h_gp?continueMode=true&_x_zm_rtaid=DadevCQ7Sb-yC9_il_HAKQ.1611478702725.ad8afddb82028d8eb6247f4c13f1e1f5&_x_zm_rhtaid=114)
+
+1. L04: [Amortized Analysis III](https://clemson.zoom.us/rec/play/IlScJHh_22fck6QQ9_SB890hbxo0DjKX3Aog7243iGYredJe_rKM5PLWRL0u_Hp3DAqpQAG9KGcBSkWu.nnmH1546LudpegRX?continueMode=true&_x_zm_rtaid=DadevCQ7Sb-yC9_il_HAKQ.1611478702725.ad8afddb82028d8eb6247f4c13f1e1f5&_x_zm_rhtaid=114)
+
+1. L05: [Priority Queues](https://clemson.zoom.us/rec/play/x3VbVq3X2tvfuQy3yOOEVlUnexpkKHPzhOWvI-mqpUa0q-xRj4Mh3UBcHMvvVA4jkZetw2HAtnrE0HUX.m1cEX_LuwUhmhqBX?continueMode=true&_x_zm_rtaid=DadevCQ7Sb-yC9_il_HAKQ.1611478702725.ad8afddb82028d8eb6247f4c13f1e1f5&_x_zm_rhtaid=114)
+
 
