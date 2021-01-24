@@ -6,4 +6,3 @@
 
 1. L02: [Amortized Analysis](https://clemson.zoom.us/rec/play/-Rn6So_lPg1FexpQ-BI1iP7vgFWd8UH8LsarS8YQ-EAOo6mlmPFidZGYdjon7cWuVnpFgXROe_mlLEmG.WnqeMxpSNij_9FQO?continueMode=true&_x_zm_rtaid=XYIPlTCGT0Kop-bPNwWzow.1610689835356.e36064cd9fdcc10b33237fe854853b3a&_x_zm_rhtaid=189)
 
-1. L03: [Amortized Analysis (II)](https://clemson.zoom.us/rec/play/KtneVkRAzzGW7G2NhuK_F_34J35kaE17uJoaBOM3hhy0O5EQYfzX60lVmoSqdSvd9ZeMRPN7_ODFKJg.y6f5A-fMalCOKQyM?continueMode=true&_x_zm_rtaid=XYIPlTCGT0Kop-bPNwWzow.1610689835356.e36064cd9fdcc10b33237fe854853b3a&_x_zm_rhtaid=189)
